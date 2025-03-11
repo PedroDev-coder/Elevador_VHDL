@@ -91,4 +91,3 @@ LED(1) <= '1' when (direction = "10") else '0';
 
 end architecture ;
 --------------------------------------------- end architecture ----------------------------------------------
---https://github.com/kiranjose/PWM-in-VHDL/blob/master/pwm.vhd
